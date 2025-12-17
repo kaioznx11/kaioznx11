@@ -8,7 +8,7 @@ Experienced with C and C++, currently using Python for automation, scripting, an
 Interested in Forensic Analysis, Offensive Security, and Back-end Development.
 As I learn, I share my code, projects, and security experiments here on GitHub.
 
-## 🚀 Skills | Code
+##  languages
 
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=yellow)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)
